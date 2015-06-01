@@ -1,0 +1,27 @@
+{
+  "name": "angular-linkedin",
+  "main": "angular-linkedin.js",
+  "version": "0.0.1",
+  "authors": [
+    "Thomas Hourlier <thomas.hourlier@cnode.fr>"
+  ],
+  "description": "Tiny wrapper around linkedin api for angular.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "wrapper",
+    "linkedin",
+    "angular.js",
+    "api",
+    "js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
